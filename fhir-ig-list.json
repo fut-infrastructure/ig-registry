@@ -9111,12 +9111,12 @@
       "editions": [
         {
           "name": "Releases",
-          "ig-version": "8.0.1",
-          "package": "dk.ehealth.sundhed.fhir.ig.core#8.0.1",
+          "ig-version": "9.0.0",
+          "package": "dk.ehealth.sundhed.fhir.ig.core#9.0.0",
           "fhir-version": [
             "4.0.1"
           ],
-          "url": "http://ehealth.sundhed.dk/fhir/8.0.1"
+          "url": "http://ehealth.sundhed.dk/fhir/9.0.0"
         }
       ]
     },
