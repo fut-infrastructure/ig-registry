@@ -10222,12 +10222,12 @@
       "editions": [
         {
           "name": "Releases",
-          "ig-version": "0.1.6",
-          "package": "dk.ehealth.sundhed.fhir.ig.testdata#0.1.6",
+          "ig-version": "0.2.0",
+          "package": "dk.ehealth.sundhed.fhir.ig.testdata#0.2.0",
           "fhir-version": [
             "4.0.1"
           ],
-          "url": "http://ehealth.sundhed.dk/testdata/0.1.6"
+          "url": "http://ehealth.sundhed.dk/testdata/0.2.0"
         }
       ]
     }
