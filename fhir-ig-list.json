@@ -10202,6 +10202,34 @@
           "url": "http://fhir.ehdsi.eu/laboratory/0.1.1"
         }
       ]
+    },
+    {
+      "name": "FUT test data",
+      "category": "Test data",
+      "npm-name": "dk.ehealth.sundhed.fhir.ig.testdata",
+      "description": "Test data resources for the Danish eHealth Infrastructure, defined in FSH against the profiles of its Implementation Guide.",
+      "authority": "Den telemedicinske infrastruktur (eHealth Infrastructure)",
+      "country": "dk",
+      "history": "http://ehealth.sundhed.dk/testdata/history.html",
+      "language": [
+        "en"
+      ],
+      "canonical": "http://ehealth.sundhed.dk/testdata",
+      "ci-build": "http://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data",
+      "product": [
+        "fhir"
+      ],
+      "editions": [
+        {
+          "name": "Releases",
+          "ig-version": "0.1.6",
+          "package": "dk.ehealth.sundhed.fhir.ig.testdata#0.1.6",
+          "fhir-version": [
+            "4.0.1"
+          ],
+          "url": "http://ehealth.sundhed.dk/testdata/0.1.6"
+        }
+      ]
     }
   ]
 }
